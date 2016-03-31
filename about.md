@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于网站
 permalink: /about/
 ---
 
-Some information about you!
+这个是我在github创建的一个私人博客网站
 
-### More Information
+### 作者信息
 
-A place to include any other types of information that you'd like to include about yourself.
+我只是一个喜欢玩电脑的普通学生，在学习iOS开发
 
-### Contact me
+### 联系方式
 
-[email@domain.com](mailto:email@domain.com)
+[minusy@foxmail.com](mailto:minusy@foxmail.com)
